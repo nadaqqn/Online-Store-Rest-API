@@ -100,10 +100,10 @@ Validated:
 * Data consistency
 
 ## 📸 API Preview
-![Preview1](./preview1.png)
-![Preview2](./preview2.png)
-![Preview3](./preview3.png)
-![Preview4](./preview4.png)
+![Preview1](./preview1.jpeg)
+![Preview2](./preview2.jpeg)
+![Preview3](./preview3.jpeg)
+![Preview4](./preview4.jpeg)
 
 ## 📈 Future Improvements
 
