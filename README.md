@@ -100,7 +100,7 @@ Validated:
 * Data consistency
 
 ## 📸 API Preview
-![Preview1](./preview1.jpeg)
+![Preview1](./preview.jpeg)
 ![Preview2](./preview2.jpeg)
 ![Preview3](./preview3.jpeg)
 ![Preview4](./preview4.jpeg)
